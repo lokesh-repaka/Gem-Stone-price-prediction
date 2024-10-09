@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lokeshrepaka/Desktop/MLOPSs/firstproject/mlruns/0/c7a360301e97414eb0c8b5fe8c2a38d2/artifacts
+end_time: 1728484923708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7a360301e97414eb0c8b5fe8c2a38d2
+run_name: judicious-mare-25
+run_uuid: c7a360301e97414eb0c8b5fe8c2a38d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728484920607
+status: 4
+tags: []
+user_id: lokeshrepaka

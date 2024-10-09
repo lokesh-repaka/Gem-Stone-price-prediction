@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lokeshrepaka/Desktop/MLOPSs/firstproject/mlruns/0/821c333d80dd49f08e352a89ea1aacf4/artifacts
+end_time: 1728485048890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 821c333d80dd49f08e352a89ea1aacf4
+run_name: abundant-mare-428
+run_uuid: 821c333d80dd49f08e352a89ea1aacf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728485045524
+status: 4
+tags: []
+user_id: lokeshrepaka
